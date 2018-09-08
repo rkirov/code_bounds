@@ -1,0 +1,1 @@
+{"q0": 3, "curve_eq": "y^(3 + 1) - x^3 - x", "family": "hermitian", "g": 3, "curve_eq_latex": "y^{q + 1} = x^q + x", "m": 4, "n": 28, "q": 9, "P": "[0 , 0 , 1]", "kq": 0, "Q": "[1 , 0 , 0]", "dvalp": [0, 6, 4, 2], "dvalq": [0, 6, 4, 2], "ddeg": 26, "dq": -1}
